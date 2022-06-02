@@ -4,5 +4,3 @@ blaaaaaaaaaaaaaaaaaaaaa
 aaaaaaaaaaaaa
 
 reset
-
-Hello World!
